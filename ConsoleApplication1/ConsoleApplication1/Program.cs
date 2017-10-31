@@ -14,8 +14,11 @@ namespace ConsoleApplication1
             Console.WriteLine("j'ai fait une modif");
             // Guillaume a fait une modif
             Console.WriteLine("Coucou c'est moi");
-            int i = 10; 
+            int i = 10;
             // G Commentaire
+
+            Console.WriteLine("je travaille sur la branche 2");
+            //essai synchronisation modif dans branche 1 et branche 2 
         }
     }
 }
