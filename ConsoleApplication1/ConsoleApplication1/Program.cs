@@ -16,6 +16,7 @@ namespace ConsoleApplication1
             Console.WriteLine("Coucou c'est moi");
             int i = 10; 
             // G Commentaire
+            // Test Branche1
         }
     }
 }
