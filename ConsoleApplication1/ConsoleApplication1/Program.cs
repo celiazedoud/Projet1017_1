@@ -12,6 +12,7 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("Essai Github n°1 !");
             Console.WriteLine("j'ai fait une modif");
+            // Guillaume a fait une modif
         }
     }
 }
