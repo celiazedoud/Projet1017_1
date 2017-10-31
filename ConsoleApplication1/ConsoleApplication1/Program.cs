@@ -20,6 +20,7 @@ namespace ConsoleApplication1
 
             Console.WriteLine("je travaille sur la branche 2");
             //essai synchronisation modif dans branche 1 et branche 2 
+            jghuioghergj
         }
     }
 }
