@@ -14,6 +14,7 @@ namespace ConsoleApplication1
             Console.WriteLine("j'ai fait une modif");
             // Guillaume a fait une modif
             Console.WriteLine("Coucou c'est moi");
+            // G Commentaire
         }
     }
 }
